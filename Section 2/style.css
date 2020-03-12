@@ -1,0 +1,14 @@
+.container {
+  max-width: 80%;
+  margin: 0 auto;
+}
+.container .title {
+  text-align: center;
+}
+.container table {
+  border-collapse: collapse;
+}
+.container table td, .container table th {
+  border: 1px solid #333;
+  padding: 5px;
+}
